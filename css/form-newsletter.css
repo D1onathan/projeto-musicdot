@@ -1,0 +1,21 @@
+.form_newsletter {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+
+    border-radius: 7px;
+    border: 2px solid #e93d50;
+    background-color: #e93d50;
+}
+
+.form-newsletter_botao {
+    flex-grow: 1;
+    border: none;
+
+    text-transform: uppercase;
+    font-weight: 600;
+
+    background-color: #e93d50;
+    color: #fff;
+}
